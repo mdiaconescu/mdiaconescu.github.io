@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img.floatLeft {
+    float: left;
+    margin: 0 20px 0 0;
+    max-width: 55%;
+}
+
+.bg-grad-1 {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#00c0ff+0,00ffc0+100 */
+    background: #00c0ff; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #00c0ff 0%, #00ffc0 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #00c0ff 0%,#00ffc0 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #00c0ff 0%,#00ffc0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00c0ff', endColorstr='#00ffc0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  }
+
+  footer {
+    padding-bottom: 30px;
+    padding-top: 30px;;
+  }

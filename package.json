@@ -1,0 +1,25 @@
+{
+  "name": "mdiaconescu.github.io",
+  "version": "1.0.0",
+  "description": "The website project assignment to place in our GitHub portfolio for the MIT xPro \"Professional Certificate in Coding: Full Stack Development with MERN\" course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdiaconescu/mdiaconescu.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdiaconescu/mdiaconescu.github.io/issues"
+  },
+  "homepage": "https://github.com/mdiaconescu/mdiaconescu.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.4.1",
+    "mdb-ui-kit": "^3.5.1"
+  }
+}
